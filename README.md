@@ -2,10 +2,10 @@
 
 ## NIVEL 1,2,3 Y 4.
 
-## 1 - justify-content : End
-## 2 - justify-content : center
-## 3 - justify-content: space-around;
-## 4 - justify-content : space-between;
+1 - justify-content : End
+2 - justify-content : center
+3 - justify-content: space-around;
+4 - justify-content : space-between;
 
 
 ## NIVEL 5,6 y 7
