@@ -1,16 +1,14 @@
 # Bienvenido a Flexbox Froggy.
 
-## LEVEL 1,2,3 Y 4.
+## NIVEL 1,2,3 Y 4.
 
-- flex-start: Alinea elementos al lado izquierdo del contenedor.
-- flex-end: Alinea elementos al lado derecho del contenedor.
-- center: Alinea elementos en el centro del contenedor.
-- space-between: Muestra elementos con la misma distancia entre ellos.
-- space-around: Muestra elementos con la misma separación alrededor de ellos.
-- Por ejemplo, justify-content: flex-end; moverá a la derecha.
+## 1 - justify-content : End
+## 2 - justify-content : center
+## 3 - justify-content: space-around;
+## 4 - justify-content : space-between;
 
 
-## LEVEL 5,6 y 7
+## NIVEL 5,6 y 7
 
 Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acepta los siguientes valores:
 
@@ -30,7 +28,7 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - column: Elementos se colocan de arriba hacia abajo.
 - column-reverse: Elementos se colocan de abajo hacia arriba.
 
-## LEVEL 14 AND OTHERS.
+## NIVEL 14 AND OTHERS.
 
 - A veces, invertir el orden de una fila o columna de un contenedor no es suficiente. En esos casos, nosotros podemos aplicar la propiedad order a elementos individuales. Por defecto, los elementos tienen un valor 0, pero nosotros podemos usar esta propiedad para establecerlo a un número entero positivo o negativo.
 
@@ -43,13 +41,13 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - wrap-reverse: Los elementos se envuelven alrededor - de líneas adicionales en reversa.
 
 
-## LEVEL 20
+## NIVEL 20
 
 Las dos propiedades flex-direction y flex-wrap son usadas a menudo en conjunto con la propiedad abreviada flex-flow, la cual fue creada para combinarlas. Esta propiedad abreviada, acepta un valor de cada una separada por un espacio.
 
 Por ejemplo, puedes usar flex-flow para establecer filas y envolverlas.
 
-## LEVEL 21
+## NIVEL 21
 
 Puedes usar align-content para establecer como múltiples líneas están separadas una de otra. Esta propiedad acepta los siguientes valores:
 
