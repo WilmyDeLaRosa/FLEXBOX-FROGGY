@@ -2,6 +2,8 @@
 
 ## NIVEL 1,2,3 Y 4.
 
+Bienvenido a Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS.
+
 - 1. justify-content : End
 - 2. justify-content : center
 - 3. justify-content: space-around;
@@ -12,11 +14,12 @@
 
 Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acepta los siguientes valores:
 
-- flex-start: Alinea elementos a la parte superior del contenedor.
-- flex-end: Alinea elementos a la parte inferior del contenedor.
-- center: Alinea elementos en el centro (verticalmente hablando) del contenedor.
-- baseline: Muestra elementos en la línea base del contenedor
-- stretch: Elementos se estiran para ajustarse al contenedor.
+- 5. align-items: flex-end;
+- 6. justify-content: center;
+  align-items: center;
+- 7. justify-content: space-around;
+  align-items: flex-end;
+
 
 ## Level 8
 
