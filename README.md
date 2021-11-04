@@ -21,15 +21,28 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
   align-items: flex-end;
 
 
-## Level 8
+## Level 8 Y 9
 
-- Flex-direction:
- Esta propiedad CSS define la dirección de los elementos en el contenedor, y acepta los siguientes valores:
+Las ranas necesitan ponerse en el mismo orden que sus hojas de lirio usando flex-direction.
 
-- row: Elementos son colocados en la misma dirección del texto.
-- row-reverse: Elementos son colocados en la dirección opuesta al texto.
-- column: Elementos se colocan de arriba hacia abajo.
-- column-reverse: Elementos se colocan de abajo hacia arriba.
+- 8. flex-direction: row-reverse;
+- 9. flex-direction: column;
+
+## Level 10,11,12 Y 13
+
+Ayuda a las ranas a llegar a sus hojas de lirio. A pesar de que ellas parecen estar cerca, necesitarás usar flex-direction y justify-content para llegar hasta allí.
+
+- 10. flex-direction:row-reverse;
+  flex-wrap:wrap;
+  justify-content:flex-end;
+- 11. flex-direction: column;
+  justify-content: flex-end;
+- 12. flex-direction: column-reverse;
+  justify-content: space-between;
+- 13. flex-direction: row-reverse;
+  justify-content: center ;
+  align-items: flex-end ;
+
 
 ## NIVEL 14 AND OTHERS.
 
